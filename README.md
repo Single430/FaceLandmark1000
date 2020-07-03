@@ -1,5 +1,9 @@
 # face_landmark_1000
 
+1000点的人脸关键点定位，工程包含人脸检测和人脸关键点。
+
+
+
 ## The result:
 
 ![result](./data/result.jpg)
@@ -19,6 +23,10 @@ python3 demo.py
 - [x] Web service
 - [ ] Face tracking module
 - [ ] Train module
+
+## QQ群
+
+686492105   欢迎入群交流。
 
 ## Reference:
 
