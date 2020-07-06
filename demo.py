@@ -1,3 +1,4 @@
+import sys
 import torch
 from face_detector import *
 from face_landmark import *
@@ -92,5 +93,7 @@ def video_capture_run():
 
 
 if __name__ == '__main__':
-    # image_run()
-    video_capture_run()
+    if len(sys.argv) == 1:
+        image_run()
+    else:
+        video_capture_run()
