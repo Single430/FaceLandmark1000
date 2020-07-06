@@ -6,7 +6,7 @@
 
 ## The result:
 
-![result](./data/result.jpg)
+<img src="./data/result.jpg" width = "500" height = "700" alt="图片名称" align=center />
 
 ## How to Run
 
