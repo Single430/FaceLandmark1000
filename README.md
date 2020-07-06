@@ -11,6 +11,7 @@
 ## How to Run
 
 > `python3 demo.py cap`  # run 摄像头
+
 > `python3 demo.py`  # img
 
 ## Model
